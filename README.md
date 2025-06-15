@@ -1,6 +1,6 @@
 # Hi, I'm René 👋
 
-I'm a former software developer and current IT project manager with a deep interest in building modern systems and staying close to the tech that's shaping the future. After years leading automation-heavy IT projects and training dev teams, I’m now focused on writing solid code again—clean, maintainable, and useful.
+I'm a software developer and IT project manager with a deep interest in building modern systems and staying close to the tech that's shaping the future. After years of building a finance software, leading automation-heavy IT projects and training dev teams, I’m now focused on writing solid code again—clean, maintainable, and useful.
 
 I'm currently sharpening my Python and ML toolkit while keeping up with the latest in backend, data tooling, and AI workflows. I care about how things are built, not just what they do.
 
